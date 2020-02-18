@@ -47,8 +47,8 @@ Gunakan perintah `print(x)`
 print(x)
 ```
 
-No. | Nama | Usia
+No.|Nama|Usia
 -|-|-
-1. | Andi | 21
-2. | Budi | 25
-3. | Caca | 23
+1.|Andi|21
+2.|Budi|25
+3.|Caca|23
